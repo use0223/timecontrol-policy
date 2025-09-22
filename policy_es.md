@@ -9,7 +9,7 @@ Contacto: **suporttimecontroluse@gmail.com**
 
 ## 2) Qué datos tratamos
 - **Datos de uso de la App (locales):**
-    - Preferencias (idioma/tema), progreso de racha, ranking local, actividades programadas, ajustes, y estado Premium simulado (mock) o real cuando esté disponible.
+    - Preferencias (idioma/tema), progreso de racha, ranking local, actividades programadas, ajustes, y estado Premium.
     - Se almacenan **en tu dispositivo** mediante almacenamiento local (SharedPreferences/archivos).
 - **Perfil opcional (tras desbloquear niveles):**
     - Alias (nombre de usuario), edad (visible solo en tu perfil y formularios de ayuda), y **foto de perfil** si decides cargarla.
@@ -74,3 +74,4 @@ Publicaremos los cambios dentro de la App y/o en el repositorio del proyecto. El
 ---
 
 **Contacto:** suporttimecontroluse@gmail.com
+
