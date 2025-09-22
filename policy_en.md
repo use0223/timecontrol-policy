@@ -9,7 +9,7 @@ Contact: **suporttimecontroluse@gmail.com**
 
 ## 2) Data we process
 - **App usage data (local):**
-    - Preferences (language/theme), streak progress, local ranking, scheduled activities, settings, and Premium state (mock or real once enabled).
+    - Preferences (language/theme), streak progress, local ranking, scheduled activities, settings, and Premium.
     - Stored **on your device** via local storage (SharedPreferences/files).
 - **Optional profile (after unlock):**
     - Alias (username), age (only visible in your profile/forms), and **profile photo** if you choose to upload.
@@ -71,3 +71,4 @@ We’ll post updates in-app and/or in the project repository. Continued use mean
 ---
 
 **Contact:** suporttimecontroluse@gmail.com
+
